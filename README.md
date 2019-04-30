@@ -1,6 +1,7 @@
 # Description
 
 Python script made to retrieve Windows Spotlight wallpapers downloaded on your computer
+[Download](https://github.com/Aminomata/win-spolight-wallpaper-getter/releases)
 
 # How to use
 
