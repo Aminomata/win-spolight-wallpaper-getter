@@ -1,6 +1,6 @@
 # Description
 
-Python script made to retrieve Windows Spotlight wallpapers
+Python script made to retrieve Windows Spotlight wallpapers downloaded on your computer
 
 # How to use
 
