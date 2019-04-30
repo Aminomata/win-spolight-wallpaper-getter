@@ -27,10 +27,8 @@ def main():
             continue
 
         if height == 1080 and width == 1920:
-            print("test1")
             newfile = cwd + "\\" + str(foldername) + "\\" + str(n) + ".jpg"
         elif height == 1920 and width == 1080:
-            print("test2")
             newfile = cwd + "\\" + str(foldername) + "\\" + str(n) + ".jpg"
         else:
             continue
@@ -39,4 +37,5 @@ def main():
         n += 1
 
 
-main()
+if __name__ == '__main__':
+    main()
